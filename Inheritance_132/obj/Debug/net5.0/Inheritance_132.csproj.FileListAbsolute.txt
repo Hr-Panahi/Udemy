@@ -1,0 +1,16 @@
+C:\Users\asus\source\repos\Hr-Panahi\Udemy\Inheritance_132\bin\Debug\net5.0\Inheritance_132.exe
+C:\Users\asus\source\repos\Hr-Panahi\Udemy\Inheritance_132\bin\Debug\net5.0\Inheritance_132.deps.json
+C:\Users\asus\source\repos\Hr-Panahi\Udemy\Inheritance_132\bin\Debug\net5.0\Inheritance_132.runtimeconfig.json
+C:\Users\asus\source\repos\Hr-Panahi\Udemy\Inheritance_132\bin\Debug\net5.0\Inheritance_132.runtimeconfig.dev.json
+C:\Users\asus\source\repos\Hr-Panahi\Udemy\Inheritance_132\bin\Debug\net5.0\Inheritance_132.dll
+C:\Users\asus\source\repos\Hr-Panahi\Udemy\Inheritance_132\bin\Debug\net5.0\ref\Inheritance_132.dll
+C:\Users\asus\source\repos\Hr-Panahi\Udemy\Inheritance_132\bin\Debug\net5.0\Inheritance_132.pdb
+C:\Users\asus\source\repos\Hr-Panahi\Udemy\Inheritance_132\obj\Debug\net5.0\Inheritance_132.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Hr-Panahi\Udemy\Inheritance_132\obj\Debug\net5.0\Inheritance_132.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\Hr-Panahi\Udemy\Inheritance_132\obj\Debug\net5.0\Inheritance_132.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Hr-Panahi\Udemy\Inheritance_132\obj\Debug\net5.0\Inheritance_132.AssemblyInfo.cs
+C:\Users\asus\source\repos\Hr-Panahi\Udemy\Inheritance_132\obj\Debug\net5.0\Inheritance_132.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Hr-Panahi\Udemy\Inheritance_132\obj\Debug\net5.0\Inheritance_132.dll
+C:\Users\asus\source\repos\Hr-Panahi\Udemy\Inheritance_132\obj\Debug\net5.0\ref\Inheritance_132.dll
+C:\Users\asus\source\repos\Hr-Panahi\Udemy\Inheritance_132\obj\Debug\net5.0\Inheritance_132.pdb
+C:\Users\asus\source\repos\Hr-Panahi\Udemy\Inheritance_132\obj\Debug\net5.0\Inheritance_132.genruntimeconfig.cache
