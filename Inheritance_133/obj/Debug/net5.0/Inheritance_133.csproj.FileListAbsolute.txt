@@ -1,0 +1,16 @@
+E:\CS_Internship\Udemy\Inheritance_133\obj\Debug\net5.0\Inheritance_133.csproj.AssemblyReference.cache
+E:\CS_Internship\Udemy\Inheritance_133\obj\Debug\net5.0\Inheritance_133.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS_Internship\Udemy\Inheritance_133\obj\Debug\net5.0\Inheritance_133.AssemblyInfoInputs.cache
+E:\CS_Internship\Udemy\Inheritance_133\obj\Debug\net5.0\Inheritance_133.AssemblyInfo.cs
+E:\CS_Internship\Udemy\Inheritance_133\obj\Debug\net5.0\Inheritance_133.csproj.CoreCompileInputs.cache
+E:\CS_Internship\Udemy\Inheritance_133\bin\Debug\net5.0\Inheritance_133.exe
+E:\CS_Internship\Udemy\Inheritance_133\bin\Debug\net5.0\Inheritance_133.deps.json
+E:\CS_Internship\Udemy\Inheritance_133\bin\Debug\net5.0\Inheritance_133.runtimeconfig.json
+E:\CS_Internship\Udemy\Inheritance_133\bin\Debug\net5.0\Inheritance_133.runtimeconfig.dev.json
+E:\CS_Internship\Udemy\Inheritance_133\bin\Debug\net5.0\Inheritance_133.dll
+E:\CS_Internship\Udemy\Inheritance_133\bin\Debug\net5.0\ref\Inheritance_133.dll
+E:\CS_Internship\Udemy\Inheritance_133\bin\Debug\net5.0\Inheritance_133.pdb
+E:\CS_Internship\Udemy\Inheritance_133\obj\Debug\net5.0\Inheritance_133.dll
+E:\CS_Internship\Udemy\Inheritance_133\obj\Debug\net5.0\ref\Inheritance_133.dll
+E:\CS_Internship\Udemy\Inheritance_133\obj\Debug\net5.0\Inheritance_133.pdb
+E:\CS_Internship\Udemy\Inheritance_133\obj\Debug\net5.0\Inheritance_133.genruntimeconfig.cache
