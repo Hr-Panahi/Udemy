@@ -1,0 +1,16 @@
+E:\CS_Internship\Udemy\Coding_Exercise_14\bin\Debug\net5.0\Coding_Exercise_14.exe
+E:\CS_Internship\Udemy\Coding_Exercise_14\bin\Debug\net5.0\Coding_Exercise_14.deps.json
+E:\CS_Internship\Udemy\Coding_Exercise_14\bin\Debug\net5.0\Coding_Exercise_14.runtimeconfig.json
+E:\CS_Internship\Udemy\Coding_Exercise_14\bin\Debug\net5.0\Coding_Exercise_14.runtimeconfig.dev.json
+E:\CS_Internship\Udemy\Coding_Exercise_14\bin\Debug\net5.0\Coding_Exercise_14.dll
+E:\CS_Internship\Udemy\Coding_Exercise_14\bin\Debug\net5.0\ref\Coding_Exercise_14.dll
+E:\CS_Internship\Udemy\Coding_Exercise_14\bin\Debug\net5.0\Coding_Exercise_14.pdb
+E:\CS_Internship\Udemy\Coding_Exercise_14\obj\Debug\net5.0\Coding_Exercise_14.csproj.AssemblyReference.cache
+E:\CS_Internship\Udemy\Coding_Exercise_14\obj\Debug\net5.0\Coding_Exercise_14.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS_Internship\Udemy\Coding_Exercise_14\obj\Debug\net5.0\Coding_Exercise_14.AssemblyInfoInputs.cache
+E:\CS_Internship\Udemy\Coding_Exercise_14\obj\Debug\net5.0\Coding_Exercise_14.AssemblyInfo.cs
+E:\CS_Internship\Udemy\Coding_Exercise_14\obj\Debug\net5.0\Coding_Exercise_14.csproj.CoreCompileInputs.cache
+E:\CS_Internship\Udemy\Coding_Exercise_14\obj\Debug\net5.0\Coding_Exercise_14.dll
+E:\CS_Internship\Udemy\Coding_Exercise_14\obj\Debug\net5.0\ref\Coding_Exercise_14.dll
+E:\CS_Internship\Udemy\Coding_Exercise_14\obj\Debug\net5.0\Coding_Exercise_14.pdb
+E:\CS_Internship\Udemy\Coding_Exercise_14\obj\Debug\net5.0\Coding_Exercise_14.genruntimeconfig.cache
