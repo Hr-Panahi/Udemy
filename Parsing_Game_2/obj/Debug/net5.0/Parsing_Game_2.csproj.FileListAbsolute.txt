@@ -1,0 +1,16 @@
+E:\CS_Internship\Udemy\Parsing_Game_2\bin\Debug\net5.0\Parsing_Game_2.exe
+E:\CS_Internship\Udemy\Parsing_Game_2\bin\Debug\net5.0\Parsing_Game_2.deps.json
+E:\CS_Internship\Udemy\Parsing_Game_2\bin\Debug\net5.0\Parsing_Game_2.runtimeconfig.json
+E:\CS_Internship\Udemy\Parsing_Game_2\bin\Debug\net5.0\Parsing_Game_2.runtimeconfig.dev.json
+E:\CS_Internship\Udemy\Parsing_Game_2\bin\Debug\net5.0\Parsing_Game_2.dll
+E:\CS_Internship\Udemy\Parsing_Game_2\bin\Debug\net5.0\ref\Parsing_Game_2.dll
+E:\CS_Internship\Udemy\Parsing_Game_2\bin\Debug\net5.0\Parsing_Game_2.pdb
+E:\CS_Internship\Udemy\Parsing_Game_2\obj\Debug\net5.0\Parsing_Game_2.csproj.AssemblyReference.cache
+E:\CS_Internship\Udemy\Parsing_Game_2\obj\Debug\net5.0\Parsing_Game_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS_Internship\Udemy\Parsing_Game_2\obj\Debug\net5.0\Parsing_Game_2.AssemblyInfoInputs.cache
+E:\CS_Internship\Udemy\Parsing_Game_2\obj\Debug\net5.0\Parsing_Game_2.AssemblyInfo.cs
+E:\CS_Internship\Udemy\Parsing_Game_2\obj\Debug\net5.0\Parsing_Game_2.csproj.CoreCompileInputs.cache
+E:\CS_Internship\Udemy\Parsing_Game_2\obj\Debug\net5.0\Parsing_Game_2.dll
+E:\CS_Internship\Udemy\Parsing_Game_2\obj\Debug\net5.0\ref\Parsing_Game_2.dll
+E:\CS_Internship\Udemy\Parsing_Game_2\obj\Debug\net5.0\Parsing_Game_2.pdb
+E:\CS_Internship\Udemy\Parsing_Game_2\obj\Debug\net5.0\Parsing_Game_2.genruntimeconfig.cache
