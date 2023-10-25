@@ -1,0 +1,16 @@
+C:\Users\asus\source\repos\Coding_Exercise_15\obj\Debug\net5.0\Coding_Exercise_15.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Coding_Exercise_15\obj\Debug\net5.0\Coding_Exercise_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\Coding_Exercise_15\obj\Debug\net5.0\Coding_Exercise_15.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Coding_Exercise_15\obj\Debug\net5.0\Coding_Exercise_15.AssemblyInfo.cs
+C:\Users\asus\source\repos\Coding_Exercise_15\obj\Debug\net5.0\Coding_Exercise_15.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Coding_Exercise_15\bin\Debug\net5.0\Coding_Exercise_15.exe
+C:\Users\asus\source\repos\Coding_Exercise_15\bin\Debug\net5.0\Coding_Exercise_15.deps.json
+C:\Users\asus\source\repos\Coding_Exercise_15\bin\Debug\net5.0\Coding_Exercise_15.runtimeconfig.json
+C:\Users\asus\source\repos\Coding_Exercise_15\bin\Debug\net5.0\Coding_Exercise_15.runtimeconfig.dev.json
+C:\Users\asus\source\repos\Coding_Exercise_15\bin\Debug\net5.0\Coding_Exercise_15.dll
+C:\Users\asus\source\repos\Coding_Exercise_15\bin\Debug\net5.0\ref\Coding_Exercise_15.dll
+C:\Users\asus\source\repos\Coding_Exercise_15\bin\Debug\net5.0\Coding_Exercise_15.pdb
+C:\Users\asus\source\repos\Coding_Exercise_15\obj\Debug\net5.0\Coding_Exercise_15.dll
+C:\Users\asus\source\repos\Coding_Exercise_15\obj\Debug\net5.0\ref\Coding_Exercise_15.dll
+C:\Users\asus\source\repos\Coding_Exercise_15\obj\Debug\net5.0\Coding_Exercise_15.pdb
+C:\Users\asus\source\repos\Coding_Exercise_15\obj\Debug\net5.0\Coding_Exercise_15.genruntimeconfig.cache
