@@ -1,0 +1,16 @@
+E:\CS_Internship\Udemy\Coding_Exercise_16\bin\Debug\net5.0\Coding_Exercise_16.exe
+E:\CS_Internship\Udemy\Coding_Exercise_16\bin\Debug\net5.0\Coding_Exercise_16.deps.json
+E:\CS_Internship\Udemy\Coding_Exercise_16\bin\Debug\net5.0\Coding_Exercise_16.runtimeconfig.json
+E:\CS_Internship\Udemy\Coding_Exercise_16\bin\Debug\net5.0\Coding_Exercise_16.runtimeconfig.dev.json
+E:\CS_Internship\Udemy\Coding_Exercise_16\bin\Debug\net5.0\Coding_Exercise_16.dll
+E:\CS_Internship\Udemy\Coding_Exercise_16\bin\Debug\net5.0\ref\Coding_Exercise_16.dll
+E:\CS_Internship\Udemy\Coding_Exercise_16\bin\Debug\net5.0\Coding_Exercise_16.pdb
+E:\CS_Internship\Udemy\Coding_Exercise_16\obj\Debug\net5.0\Coding_Exercise_16.csproj.AssemblyReference.cache
+E:\CS_Internship\Udemy\Coding_Exercise_16\obj\Debug\net5.0\Coding_Exercise_16.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS_Internship\Udemy\Coding_Exercise_16\obj\Debug\net5.0\Coding_Exercise_16.AssemblyInfoInputs.cache
+E:\CS_Internship\Udemy\Coding_Exercise_16\obj\Debug\net5.0\Coding_Exercise_16.AssemblyInfo.cs
+E:\CS_Internship\Udemy\Coding_Exercise_16\obj\Debug\net5.0\Coding_Exercise_16.csproj.CoreCompileInputs.cache
+E:\CS_Internship\Udemy\Coding_Exercise_16\obj\Debug\net5.0\Coding_Exercise_16.dll
+E:\CS_Internship\Udemy\Coding_Exercise_16\obj\Debug\net5.0\ref\Coding_Exercise_16.dll
+E:\CS_Internship\Udemy\Coding_Exercise_16\obj\Debug\net5.0\Coding_Exercise_16.pdb
+E:\CS_Internship\Udemy\Coding_Exercise_16\obj\Debug\net5.0\Coding_Exercise_16.genruntimeconfig.cache
