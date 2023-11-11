@@ -1,0 +1,15 @@
+E:\CS_Internship\Udemy\WPF Challenge - Recreate this GUI\bin\Debug\WPF Challenge - Recreate this GUI.exe.config
+E:\CS_Internship\Udemy\WPF Challenge - Recreate this GUI\bin\Debug\WPF Challenge - Recreate this GUI.exe
+E:\CS_Internship\Udemy\WPF Challenge - Recreate this GUI\bin\Debug\WPF Challenge - Recreate this GUI.pdb
+E:\CS_Internship\Udemy\WPF Challenge - Recreate this GUI\obj\Debug\WPF Challenge - Recreate this GUI.csproj.AssemblyReference.cache
+E:\CS_Internship\Udemy\WPF Challenge - Recreate this GUI\obj\Debug\MainWindow.g.cs
+E:\CS_Internship\Udemy\WPF Challenge - Recreate this GUI\obj\Debug\App.g.cs
+E:\CS_Internship\Udemy\WPF Challenge - Recreate this GUI\obj\Debug\WPF Challenge - Recreate this GUI_MarkupCompile.cache
+E:\CS_Internship\Udemy\WPF Challenge - Recreate this GUI\obj\Debug\WPF Challenge - Recreate this GUI_MarkupCompile.lref
+E:\CS_Internship\Udemy\WPF Challenge - Recreate this GUI\obj\Debug\MainWindow.baml
+E:\CS_Internship\Udemy\WPF Challenge - Recreate this GUI\obj\Debug\WPF Challenge - Recreate this GUI.g.resources
+E:\CS_Internship\Udemy\WPF Challenge - Recreate this GUI\obj\Debug\WPF_Challenge___Recreate_this_GUI.Properties.Resources.resources
+E:\CS_Internship\Udemy\WPF Challenge - Recreate this GUI\obj\Debug\WPF Challenge - Recreate this GUI.csproj.GenerateResource.cache
+E:\CS_Internship\Udemy\WPF Challenge - Recreate this GUI\obj\Debug\WPF Challenge - Recreate this GUI.csproj.CoreCompileInputs.cache
+E:\CS_Internship\Udemy\WPF Challenge - Recreate this GUI\obj\Debug\WPF Challenge - Recreate this GUI.exe
+E:\CS_Internship\Udemy\WPF Challenge - Recreate this GUI\obj\Debug\WPF Challenge - Recreate this GUI.pdb
