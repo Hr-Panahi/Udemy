@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="WPF___Login_Window.InvoiceView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WPF___Login_Window"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.Column="0" Margin="20" FontSize="24" TextWrapping="WrapWithOverflow" Text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris aliquet quis quam in varius. Sed augue nibh, porta et fringilla vel, eleifend tristique nisi. Sed finibus nunc sit amet vehicula dignissim. Cras semper metus nibh, id ornare enim tempus nec. Nullam laoreet dolor sed lectus venenatis, non eleifend metus posuere. Ut quis diam id nibh faucibus interdum eget vel erat. Suspendisse ut magna tellus. Sed et purus mollis, ullamcorper augue ac, condimentum est. Duis auctor mollis mauris, eget consequat arcu porta at. Aenean eleifend vel tortor ac rhoncus. Ut id mauris metus. Mauris velit orci, luctus id ultricies a, convallis nec sem. Mauris et ornare mi. Suspendisse vehicula massa id velit vestibulum, eget accumsan massa convallis."/>
+    </Grid>
+</UserControl>

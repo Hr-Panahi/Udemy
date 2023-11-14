@@ -1,0 +1,26 @@
+E:\CS_Internship\Udemy\WPF - Login Window\obj\Debug\net5.0-windows\WPF - Login Window.csproj.AssemblyReference.cache
+E:\CS_Internship\Udemy\WPF - Login Window\obj\Debug\net5.0-windows\LoginView.g.cs
+E:\CS_Internship\Udemy\WPF - Login Window\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\CS_Internship\Udemy\WPF - Login Window\obj\Debug\net5.0-windows\App.g.cs
+E:\CS_Internship\Udemy\WPF - Login Window\obj\Debug\net5.0-windows\WPF - Login Window_MarkupCompile.cache
+E:\CS_Internship\Udemy\WPF - Login Window\obj\Debug\net5.0-windows\WPF - Login Window_MarkupCompile.lref
+E:\CS_Internship\Udemy\WPF - Login Window\bin\Debug\net5.0-windows\WPF - Login Window.exe
+E:\CS_Internship\Udemy\WPF - Login Window\bin\Debug\net5.0-windows\WPF - Login Window.deps.json
+E:\CS_Internship\Udemy\WPF - Login Window\bin\Debug\net5.0-windows\WPF - Login Window.runtimeconfig.json
+E:\CS_Internship\Udemy\WPF - Login Window\bin\Debug\net5.0-windows\WPF - Login Window.runtimeconfig.dev.json
+E:\CS_Internship\Udemy\WPF - Login Window\bin\Debug\net5.0-windows\WPF - Login Window.dll
+E:\CS_Internship\Udemy\WPF - Login Window\bin\Debug\net5.0-windows\ref\WPF - Login Window.dll
+E:\CS_Internship\Udemy\WPF - Login Window\bin\Debug\net5.0-windows\WPF - Login Window.pdb
+E:\CS_Internship\Udemy\WPF - Login Window\obj\Debug\net5.0-windows\MainWindow.baml
+E:\CS_Internship\Udemy\WPF - Login Window\obj\Debug\net5.0-windows\LoginView.baml
+E:\CS_Internship\Udemy\WPF - Login Window\obj\Debug\net5.0-windows\WPF - Login Window.g.resources
+E:\CS_Internship\Udemy\WPF - Login Window\obj\Debug\net5.0-windows\WPF - Login Window.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS_Internship\Udemy\WPF - Login Window\obj\Debug\net5.0-windows\WPF - Login Window.AssemblyInfoInputs.cache
+E:\CS_Internship\Udemy\WPF - Login Window\obj\Debug\net5.0-windows\WPF - Login Window.AssemblyInfo.cs
+E:\CS_Internship\Udemy\WPF - Login Window\obj\Debug\net5.0-windows\WPF - Login Window.csproj.CoreCompileInputs.cache
+E:\CS_Internship\Udemy\WPF - Login Window\obj\Debug\net5.0-windows\WPF - Login Window.dll
+E:\CS_Internship\Udemy\WPF - Login Window\obj\Debug\net5.0-windows\ref\WPF - Login Window.dll
+E:\CS_Internship\Udemy\WPF - Login Window\obj\Debug\net5.0-windows\WPF - Login Window.pdb
+E:\CS_Internship\Udemy\WPF - Login Window\obj\Debug\net5.0-windows\WPF - Login Window.genruntimeconfig.cache
+E:\CS_Internship\Udemy\WPF - Login Window\obj\Debug\net5.0-windows\InvoiceView.g.cs
+E:\CS_Internship\Udemy\WPF - Login Window\obj\Debug\net5.0-windows\InvoiceView.baml
