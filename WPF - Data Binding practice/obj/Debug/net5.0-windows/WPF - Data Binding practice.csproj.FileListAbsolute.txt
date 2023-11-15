@@ -1,0 +1,22 @@
+E:\CS_Internship\Udemy\WPF - Data Binding practice\bin\Debug\net5.0-windows\WPF - Data Binding practice.exe
+E:\CS_Internship\Udemy\WPF - Data Binding practice\bin\Debug\net5.0-windows\WPF - Data Binding practice.deps.json
+E:\CS_Internship\Udemy\WPF - Data Binding practice\bin\Debug\net5.0-windows\WPF - Data Binding practice.runtimeconfig.json
+E:\CS_Internship\Udemy\WPF - Data Binding practice\bin\Debug\net5.0-windows\WPF - Data Binding practice.runtimeconfig.dev.json
+E:\CS_Internship\Udemy\WPF - Data Binding practice\bin\Debug\net5.0-windows\WPF - Data Binding practice.dll
+E:\CS_Internship\Udemy\WPF - Data Binding practice\bin\Debug\net5.0-windows\ref\WPF - Data Binding practice.dll
+E:\CS_Internship\Udemy\WPF - Data Binding practice\bin\Debug\net5.0-windows\WPF - Data Binding practice.pdb
+E:\CS_Internship\Udemy\WPF - Data Binding practice\obj\Debug\net5.0-windows\WPF - Data Binding practice.csproj.AssemblyReference.cache
+E:\CS_Internship\Udemy\WPF - Data Binding practice\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\CS_Internship\Udemy\WPF - Data Binding practice\obj\Debug\net5.0-windows\App.g.cs
+E:\CS_Internship\Udemy\WPF - Data Binding practice\obj\Debug\net5.0-windows\WPF - Data Binding practice_MarkupCompile.cache
+E:\CS_Internship\Udemy\WPF - Data Binding practice\obj\Debug\net5.0-windows\WPF - Data Binding practice_MarkupCompile.lref
+E:\CS_Internship\Udemy\WPF - Data Binding practice\obj\Debug\net5.0-windows\MainWindow.baml
+E:\CS_Internship\Udemy\WPF - Data Binding practice\obj\Debug\net5.0-windows\WPF - Data Binding practice.g.resources
+E:\CS_Internship\Udemy\WPF - Data Binding practice\obj\Debug\net5.0-windows\WPF - Data Binding practice.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS_Internship\Udemy\WPF - Data Binding practice\obj\Debug\net5.0-windows\WPF - Data Binding practice.AssemblyInfoInputs.cache
+E:\CS_Internship\Udemy\WPF - Data Binding practice\obj\Debug\net5.0-windows\WPF - Data Binding practice.AssemblyInfo.cs
+E:\CS_Internship\Udemy\WPF - Data Binding practice\obj\Debug\net5.0-windows\WPF - Data Binding practice.csproj.CoreCompileInputs.cache
+E:\CS_Internship\Udemy\WPF - Data Binding practice\obj\Debug\net5.0-windows\WPF - Data Binding practice.dll
+E:\CS_Internship\Udemy\WPF - Data Binding practice\obj\Debug\net5.0-windows\ref\WPF - Data Binding practice.dll
+E:\CS_Internship\Udemy\WPF - Data Binding practice\obj\Debug\net5.0-windows\WPF - Data Binding practice.pdb
+E:\CS_Internship\Udemy\WPF - Data Binding practice\obj\Debug\net5.0-windows\WPF - Data Binding practice.genruntimeconfig.cache
