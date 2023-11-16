@@ -1,0 +1,25 @@
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 1\bin\Debug\net5.0-windows\WPF Project - Currency Converter 1.exe
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 1\bin\Debug\net5.0-windows\WPF Project - Currency Converter 1.deps.json
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 1\bin\Debug\net5.0-windows\WPF Project - Currency Converter 1.runtimeconfig.json
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 1\bin\Debug\net5.0-windows\WPF Project - Currency Converter 1.runtimeconfig.dev.json
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 1\bin\Debug\net5.0-windows\WPF Project - Currency Converter 1.dll
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 1\bin\Debug\net5.0-windows\ref\WPF Project - Currency Converter 1.dll
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 1\bin\Debug\net5.0-windows\WPF Project - Currency Converter 1.pdb
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 1\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 1\obj\Debug\net5.0-windows\App.g.cs
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 1\obj\Debug\net5.0-windows\WPF Project - Currency Converter 1_MarkupCompile.cache
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 1\obj\Debug\net5.0-windows\WPF Project - Currency Converter 1_MarkupCompile.lref
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 1\obj\Debug\net5.0-windows\MainWindow.baml
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 1\obj\Debug\net5.0-windows\WPF Project - Currency Converter 1.g.resources
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 1\obj\Debug\net5.0-windows\WPF Project - Currency Converter 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 1\obj\Debug\net5.0-windows\WPF Project - Currency Converter 1.AssemblyInfoInputs.cache
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 1\obj\Debug\net5.0-windows\WPF Project - Currency Converter 1.AssemblyInfo.cs
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 1\obj\Debug\net5.0-windows\WPF Project - Currency Converter 1.csproj.CoreCompileInputs.cache
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 1\obj\Debug\net5.0-windows\WPF Project - Currency Converter 1.dll
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 1\obj\Debug\net5.0-windows\ref\WPF Project - Currency Converter 1.dll
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 1\obj\Debug\net5.0-windows\WPF Project - Currency Converter 1.pdb
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 1\obj\Debug\net5.0-windows\WPF Project - Currency Converter 1.genruntimeconfig.cache
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 1\bin\Debug\net5.0-windows\FontAwesome.WPF.dll
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 1\obj\Debug\net5.0-windows\WPF Project - Currency Converter 1.csproj.CopyComplete
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 1\obj\Debug\net5.0-windows\App.baml
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 1\obj\Debug\net5.0-windows\WPF Project - Currency Converter 1.csproj.AssemblyReference.cache
