@@ -1,0 +1,16 @@
+E:\CS_Internship\Udemy\CatsAndFood\bin\Debug\net5.0\CatsAndFood.exe
+E:\CS_Internship\Udemy\CatsAndFood\bin\Debug\net5.0\CatsAndFood.deps.json
+E:\CS_Internship\Udemy\CatsAndFood\bin\Debug\net5.0\CatsAndFood.runtimeconfig.json
+E:\CS_Internship\Udemy\CatsAndFood\bin\Debug\net5.0\CatsAndFood.runtimeconfig.dev.json
+E:\CS_Internship\Udemy\CatsAndFood\bin\Debug\net5.0\CatsAndFood.dll
+E:\CS_Internship\Udemy\CatsAndFood\bin\Debug\net5.0\ref\CatsAndFood.dll
+E:\CS_Internship\Udemy\CatsAndFood\bin\Debug\net5.0\CatsAndFood.pdb
+E:\CS_Internship\Udemy\CatsAndFood\obj\Debug\net5.0\CatsAndFood.csproj.AssemblyReference.cache
+E:\CS_Internship\Udemy\CatsAndFood\obj\Debug\net5.0\CatsAndFood.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS_Internship\Udemy\CatsAndFood\obj\Debug\net5.0\CatsAndFood.AssemblyInfoInputs.cache
+E:\CS_Internship\Udemy\CatsAndFood\obj\Debug\net5.0\CatsAndFood.AssemblyInfo.cs
+E:\CS_Internship\Udemy\CatsAndFood\obj\Debug\net5.0\CatsAndFood.csproj.CoreCompileInputs.cache
+E:\CS_Internship\Udemy\CatsAndFood\obj\Debug\net5.0\CatsAndFood.dll
+E:\CS_Internship\Udemy\CatsAndFood\obj\Debug\net5.0\ref\CatsAndFood.dll
+E:\CS_Internship\Udemy\CatsAndFood\obj\Debug\net5.0\CatsAndFood.pdb
+E:\CS_Internship\Udemy\CatsAndFood\obj\Debug\net5.0\CatsAndFood.genruntimeconfig.cache
