@@ -1,0 +1,16 @@
+E:\CS_Internship\Udemy\SumOfTwo\bin\Debug\net5.0\SumOfTwo.exe
+E:\CS_Internship\Udemy\SumOfTwo\bin\Debug\net5.0\SumOfTwo.deps.json
+E:\CS_Internship\Udemy\SumOfTwo\bin\Debug\net5.0\SumOfTwo.runtimeconfig.json
+E:\CS_Internship\Udemy\SumOfTwo\bin\Debug\net5.0\SumOfTwo.runtimeconfig.dev.json
+E:\CS_Internship\Udemy\SumOfTwo\bin\Debug\net5.0\SumOfTwo.dll
+E:\CS_Internship\Udemy\SumOfTwo\bin\Debug\net5.0\ref\SumOfTwo.dll
+E:\CS_Internship\Udemy\SumOfTwo\bin\Debug\net5.0\SumOfTwo.pdb
+E:\CS_Internship\Udemy\SumOfTwo\obj\Debug\net5.0\SumOfTwo.csproj.AssemblyReference.cache
+E:\CS_Internship\Udemy\SumOfTwo\obj\Debug\net5.0\SumOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS_Internship\Udemy\SumOfTwo\obj\Debug\net5.0\SumOfTwo.AssemblyInfoInputs.cache
+E:\CS_Internship\Udemy\SumOfTwo\obj\Debug\net5.0\SumOfTwo.AssemblyInfo.cs
+E:\CS_Internship\Udemy\SumOfTwo\obj\Debug\net5.0\SumOfTwo.csproj.CoreCompileInputs.cache
+E:\CS_Internship\Udemy\SumOfTwo\obj\Debug\net5.0\SumOfTwo.dll
+E:\CS_Internship\Udemy\SumOfTwo\obj\Debug\net5.0\ref\SumOfTwo.dll
+E:\CS_Internship\Udemy\SumOfTwo\obj\Debug\net5.0\SumOfTwo.pdb
+E:\CS_Internship\Udemy\SumOfTwo\obj\Debug\net5.0\SumOfTwo.genruntimeconfig.cache
