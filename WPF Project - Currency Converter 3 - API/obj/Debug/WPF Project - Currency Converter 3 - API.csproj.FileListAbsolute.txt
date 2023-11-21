@@ -1,0 +1,21 @@
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 3 - API\bin\Debug\WPF Project - Currency Converter 3 - API.exe.config
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 3 - API\bin\Debug\WPF Project - Currency Converter 3 - API.exe
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 3 - API\bin\Debug\WPF Project - Currency Converter 3 - API.pdb
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 3 - API\bin\Debug\FontAwesome.WPF.dll
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 3 - API\bin\Debug\FontAwesome.WPF.xml
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 3 - API\obj\Debug\MainWindow.g.cs
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 3 - API\obj\Debug\App.g.cs
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 3 - API\obj\Debug\WPF Project - Currency Converter 3 - API_MarkupCompile.cache
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 3 - API\obj\Debug\WPF Project - Currency Converter 3 - API_MarkupCompile.lref
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 3 - API\obj\Debug\App.baml
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 3 - API\obj\Debug\MainWindow.baml
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 3 - API\obj\Debug\WPF Project - Currency Converter 3 - API.g.resources
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 3 - API\obj\Debug\WPF_Project___Currency_Converter_3___API.Properties.Resources.resources
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 3 - API\obj\Debug\WPF Project - Currency Converter 3 - API.csproj.GenerateResource.cache
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 3 - API\obj\Debug\WPF Project - Currency Converter 3 - API.csproj.CoreCompileInputs.cache
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 3 - API\obj\Debug\WPF Project - Currency Converter 3 - API.csproj.CopyComplete
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 3 - API\obj\Debug\WPF Project - Currency Converter 3 - API.exe
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 3 - API\obj\Debug\WPF Project - Currency Converter 3 - API.pdb
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 3 - API\bin\Debug\Newtonsoft.Json.dll
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 3 - API\bin\Debug\Newtonsoft.Json.xml
+E:\CS_Internship\Udemy\WPF Project - Currency Converter 3 - API\obj\Debug\WPF Project - Currency Converter 3 - API.csproj.AssemblyReference.cache
